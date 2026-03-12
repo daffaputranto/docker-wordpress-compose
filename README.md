@@ -131,7 +131,7 @@ Redis digunakan sebagai cache sehingga dapat mempercepat loading website dan men
 ![install](screenshots/wordpress-install.png)
 
 ### WordPress Dashboard
-![dashboard](screenshots/wordpress-dashboard.png)
+![dashboard](screenshots/wordpress dashboard.png)
 
 ### Docker Containers
 ![docker](screenshots/docker-ps.png)
